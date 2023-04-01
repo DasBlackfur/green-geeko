@@ -1,0 +1,21 @@
+{
+  "name": "green-geeko",
+  "displayName": "Green Geeko",
+  "description": "A simple theme that looks nice, to me atleast.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Green Geeko",
+        "uiTheme": "vs-dark",
+        "path": "./themes/green-geek-color-theme.json"
+      }
+    ]
+  }
+}
