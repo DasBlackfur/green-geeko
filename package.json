@@ -3,6 +3,11 @@
   "displayName": "Green Geeko",
   "description": "A simple theme that looks nice, to me atleast.",
   "version": "0.0.1",
+  "publisher": "blackfur",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DasBlackfur/green-geeko"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },
